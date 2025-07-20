@@ -10,3 +10,15 @@ This is a Power BI project on the performance and sales analysis of **Coca Cola 
 2. Which brands contribute the most to our overall revenue, and how does each compare?
 3. Which retailers are driving the highest sales volumes, and which ones may need attention or support?
 4. How do our sales fluctuate across different months, and are there any seasonal trends or patterns we should be aware of?
+## Methodology:
+The following Power Bi features were incorporated:
+- Power query
+- Data modelling
+- DAX Formulas
+- Charts and Bar
+- Multi-level filter system
+## Data Collection and Preparation:
+•	Imported raw datasets as Excel spreadsheets from data analysis group
+•	Cleaned and transformed data using Power Query (removing duplicates, correcting data types, handling null values).
+•	Using DAX formulas to calculate for calculated measures 
+
