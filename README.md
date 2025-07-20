@@ -17,13 +17,15 @@ The following Power Bi features were incorporated:
 - DAX Formulas
 - Charts and Bar
 - Multi-level filter system
+- Branded design elements and intuitive layout
 ## Data Collection and Preparation:
 - Imported raw datasets as Excel spreadsheets from data analysis group
 - Cleaned and transformed data using Power Query (removing duplicates, correcting data types, handling null values).
 - Using DAX (Data Analysis Expressions) to create custom metrics such as Total Cosr, Profit Margin,Total Sales etc
-Reporting and Visualization:
-•	Built PivotTables and Pivot Charts connected to the model for interactive reporting.
-•	Enabled slicers and filters for dynamic data exploration.
-Visualization:
-This interactive Power BI dashboard provides a comprehensive analysis of sales performance for Mendel Retail Stores across multiple years and locations. It offers data-driven insights into revenue, profit, orders, returns, and customer behavior, enabling stakeholders to make informed business decisions
+## Reporting and Visualization:
+- Built Charts connected to the model for interactive reporting.
+- Enabled slicers and filters for dynamic data exploration.
+- Created branded design elements and intuitive layout background
+## Visualization:
+This interactive Power BI dashboard provides a comprehensive analysis of sales performance of coca cola beverages across different brands, retailers, regions and time periods, providing data driven insights for decisions making in sales strategy, marketing and supply chain management
 
