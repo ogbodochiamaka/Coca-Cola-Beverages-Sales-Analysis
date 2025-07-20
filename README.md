@@ -21,11 +21,13 @@ The following Power Bi features were incorporated:
 ## Data Collection and Preparation:
 - Imported raw datasets as Excel spreadsheets from data analysis group
 - Cleaned and transformed data using Power Query (removing duplicates, correcting data types, handling null values).
-- Using DAX (Data Analysis Expressions) to create custom metrics such as Total Cosr, Profit Margin,Total Sales etc
+- Using DAX (Data Analysis Expressions) to create custom metrics such as Total Cost, Profit Margin,Total Sales etc
 ## Reporting and Visualization:
 - Built Charts connected to the model for interactive reporting.
 - Enabled slicers and filters for dynamic data exploration.
 - Created branded design elements and intuitive layout background
 ## Visualization:
-This interactive Power BI dashboard provides a comprehensive analysis of sales performance of coca cola beverages across different brands, retailers, regions and time periods, providing data driven insights for decisions making in sales strategy, marketing and supply chain management
+This interactive Power BI dashboard provides a comprehensive analysis of sales performance of coca cola beverages across different brands, retailers, regions and time periods, providing data driven insights for decisions making in sales strategy, marketing and supply chain management.
+![](!<img width="908" height="508" alt="COCA COLA SALES DASHBOARD" src="https://github.com/user-attachments/assets/5a38e17a-8764-4d95-b5d7-dfe5a664a68c" />
+)
 
